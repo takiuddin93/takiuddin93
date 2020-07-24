@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://www.takiuddin93.com">🌐 Check out my website</a>
+  <a href="https://www.takiuddin.com">🌐 Check out my website</a>
 </p>
 
 <!--
