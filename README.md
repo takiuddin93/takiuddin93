@@ -2,6 +2,7 @@
 
 <p>Hi, I'm Taki Uddin. I'm a application developer from Bangladesh, using Flutter.</p>
 
+<p>📫 Here's how you can reach me: ...</p>
 <p>
   <a href="https://www.twitter.com/takiuddin93"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/takiuddin93"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
