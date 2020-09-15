@@ -15,10 +15,40 @@
   <a href="https://www.takiuddin.com">🌐 Check out my website</a>
 </p>
 
+Here are some ideas to get you started:
+<ul>
+  <li>
+    <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java, Kotlin), <b><i>Cross-Platform Apps</b></i> (Flutter).
+  </li>
+  <li>
+    <b>🌱 Getting better at:  </b>  Application UI/UX and Coding Pattern.
+  </li>
+  <li>
+    <b>🤔 Exploring: </b> Application Design Patterns and Data Science.
+  </li>
+  <li>
+    <b>⚗️ Experimenting on: </b> Improving the efficiency of my code and Design Patterns.
+  </li>
+  <li>
+    <b>💬 Ask me about: </b> Anything tech related.
+  </li>
+  <li>  
+    <b>😄 Pronouns: </b> He/Him/His.
+  </li>  
+  <li>
+    <b>📫 How to reach me: </b> shoot a mail.
+  </li>
+  <li>
+    <b>⚡ Fun fact:  </b> I hoard on suger.
+  </li>  
+</ul>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 <img align='right' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
+
 <!--
 **takiuddin93/takiuddin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
