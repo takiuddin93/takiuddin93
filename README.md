@@ -15,7 +15,7 @@
   <a href="https://www.takiuddin.com">🌐 Check out my website</a>
 </p>
 
-Here are some ideas to get you started:
+<h3>Here are some general facts about me:<h3>
 <ul>
   <li>
     <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java, Kotlin), <b><i>Cross-Platform Apps</b></i> (Flutter).
@@ -43,13 +43,7 @@ Here are some ideas to get you started:
   </li>  
 </ul>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
-<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
-<img align='right' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
-
-### Languages and Tools:
+<h3> Other Languages and Tools:<h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -65,6 +59,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
+<b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
+<img align='right' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
+
 
 <!--
 **takiuddin93/takiuddin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
