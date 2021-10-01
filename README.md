@@ -43,6 +43,11 @@
   </li>  
 </ul>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
+
+
 <h3> Other Languages and Tools:<h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -59,10 +64,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
 <b>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</b>
 <img align='right' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
 
