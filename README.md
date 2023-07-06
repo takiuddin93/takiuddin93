@@ -45,6 +45,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=takiuddin93&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=takiuddin93&theme=dark&hide_border=false">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takiuddin93&layout=compact" />
 
 
