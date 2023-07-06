@@ -89,7 +89,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=takiuddin93&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br/>
+<br/><br/>
 <img align='left' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
 
 
