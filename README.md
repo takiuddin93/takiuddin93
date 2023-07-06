@@ -18,7 +18,7 @@
 <h3>Here are some general facts about me:<h3>
 <ul>
   <li>
-    <b>🔭 Currently working on:</b>  <b><i>Android</i></b> (Java, Kotlin), <b><i>Cross-Platform Apps</b></i> (Flutter).
+    <b>🔭 Currently looking to be hired as a <b><i>Cross-Platform Applications Developer</b></i> using Flutter and ReactJS.
   </li>
   <li>
     <b>🌱 Getting better at:  </b>  Application UI/UX and Coding Pattern.
