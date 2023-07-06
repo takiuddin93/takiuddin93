@@ -87,6 +87,9 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <br/><br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=takiuddin93&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 <img align='left' src="https://komarev.com/ghpvc/?username=takiuddin93" alt="takiuddin93" />
 
 
