@@ -87,6 +87,10 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 <br/><br/>
 
+## 🏆 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=plusequalsto&show_icons=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plusequalsto&layout=compact" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=takiuddin93&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <br/><br/>
